@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AFK2020
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning NodeJs Django and React
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on all type of projects
 - 📫 How to reach me afifak2499@gmail.com
 
